@@ -11,3 +11,5 @@ Console.WriteLine();
 Console.WriteLine("Qual è il tuo mese preferito ?");
 mesePreferito= Console.ReadLine();
 Console.WriteLine("il tuo mese preferito è: " +mesePreferito);
+Console.WriteLine();
+Console.WriteLine("ARRIVEDERCI !!!");
